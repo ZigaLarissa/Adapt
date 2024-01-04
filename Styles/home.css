@@ -1,0 +1,291 @@
+/*text style*/ 
+.regular-body-xsmall-regular {
+    font-size: 11px;
+    font-family: Inter;
+    font-weight: 400;
+    letter-spacing: 0em;
+    line-height: 120.00000476837158%;
+  }
+  
+.regular-body-base-regular {
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 400;
+    letter-spacing: 0em;
+    line-height: 120.00000476837158%;
+}
+
+.regular-body-large-regular {
+    font-size: 16px;
+    font-family: Inter;
+    font-weight: 400;
+    letter-spacing: 0em;
+    line-height: 120.00000476837158%;
+}
+  
+.bold-body-xsmall-bold {
+    font-size: 11px;
+    font-family: Inter;
+    font-weight: 700;
+    letter-spacing: 0em;
+    line-height: 120.00000476837158%;
+}
+  
+.bold-body-small-bold {
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 700;
+    letter-spacing: 0em;
+    line-height: 120.00000476837158%;
+}
+  
+.bold-body-base-bold {
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 700;
+    letter-spacing: 0em;
+    line-height: 120.00000476837158%;
+}
+  
+.bold-body-large-bold {
+    font-size: 16px;
+    font-family: Inter;
+    font-weight: 700;
+    letter-spacing: 0em;
+    line-height: 120.00000476837158%;
+}
+  
+.regular-headings-heading-6-regular {
+    font-size: 18px;
+    font-family: Inter;
+    font-weight: 400;
+    letter-spacing: 0em;
+    line-height: 120.00000476837158%;
+}
+  
+.regular-headings-heading-5-regular {
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 400;
+    letter-spacing: 0em;
+    line-height: 120.00000476837158%;
+}
+  
+.regular-headings-heading-4-regular {
+    font-size: 22px;
+    font-family: Inter;
+    font-weight: 400;
+    letter-spacing: 0em;
+    line-height: 120.00000476837158%;
+}
+  
+.regular-headings-heading-3-regural {
+    font-size: 25px;
+    font-family: Inter;
+    font-weight: 400;
+    letter-spacing: 0em;
+    line-height: 120.00000476837158%; 
+}
+  
+.regular-headings-heading-2-regular {
+    font-size: 28px;
+    font-family: Inter;
+    font-weight: 400;
+    letter-spacing: 0em;
+    line-height: 120.00000476837158%;
+}
+  
+.regular-headings-heading-1-regular {
+    font-size: 32px;
+    font-family: Inter;
+    font-weight: 400;
+    letter-spacing: 0em;
+    line-height: 120.00000476837158%;
+}
+  
+.bold-headings-heading-6-bold {
+    font-size: 18px;
+    font-family: Inter;
+    font-weight: 700;
+    letter-spacing: 0em;
+    line-height: 120.00000476837158%;
+}
+  
+.bold-headings-heading-5-bold {
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 700;
+    letter-spacing: 0em;
+    line-height: 120.00000476837158%;
+}
+  
+.bold-headings-heading-4-bold {
+    font-size: 22px;
+    font-family: Inter;
+    font-weight: 700;
+    letter-spacing: 0em;
+    line-height: 120.00000476837158%;
+}
+  
+.bold-headings-heading-3-bold {
+    font-size: 25px;
+    font-family: Inter;
+    font-weight: 700;
+    letter-spacing: 0em;
+    line-height: 120.00000476837158%;
+}
+  
+.bold-headings-heading-2-bold {
+    font-size: 28px;
+    font-family: Inter;
+    font-weight: 700;
+    letter-spacing: 0em;
+    line-height: 120.00000476837158%;
+}
+  
+.bold-headings-heading-1-bold {
+    font-size: 32px;
+    font-family: Inter;
+    font-weight: 700;
+    letter-spacing: 0em;
+    line-height: 120.00000476837158%;
+}
+  
+  
+/*color style*/ 
+:root{
+    --primary-color: rgba(54, 160, 159, 1);
+    --secondary-color: rgba(53, 71, 102, 1);
+    --varitions-primary-color-blue-50: rgba(235, 246, 245, 1);
+    --varitions-primary-color-blue-100: rgba(193, 226, 225, 1);
+    --varitions-primary-color-blue-200: rgba(163, 211, 211, 1);
+    --varitions-primary-color-blue-300: rgba(120, 191, 191, 1);
+    --varitions-primary-color-blue-400: rgba(94, 179, 178, 1);
+    --varitions-primary-color-blue-500: rgba(54, 160, 159, 1);
+    --varitions-primary-color-blue-600: rgba(49, 146, 145, 1);
+    --varitions-primary-color-blue-700: rgba(38, 114, 113, 1);
+    --varitions-primary-color-blue-800: rgba(30, 88, 87, 1);
+    --varitions-primary-color-blue-900: rgba(23, 67, 67, 1);
+    --varitions-secondary-color-s50: rgba(235, 237, 240, 1);
+    --varitions-secondary-color-s75: rgba(172, 180, 192, 1);
+    --varitions-secondary-color-s100: rgba(138, 148, 166, 1);
+    --varitions-secondary-color-s200: rgba(87, 102, 128, 1);
+    --varitions-secondary-color-s300: rgba(53, 71, 102, 1);
+    --varitions-secondary-color-s400: rgba(37, 50, 71, 1);
+    --varitions-secondary-color-s500: rgba(32, 43, 62, 1);
+    --varitions-success-color-s50: rgba(230, 249, 230, 1);
+    --varitions-success-color-s75: rgba(150, 229, 154, 1);
+    --varitions-success-color-s100: rgba(107, 218, 112, 1);
+    --varitions-success-color-s200: rgba(43, 202, 50, 1);
+    --varitions-success-color-s300: rgba(0, 191, 8, 1);
+    --varitions-success-color-s400: rgba(0, 134, 6, 1);
+    --varitions-success-color-s500: rgba(0, 117, 5, 1);
+    --varitions-warning-color-w50: rgba(252, 250, 237, 1);
+    --varitions-warning-color-w75: rgba(243, 233, 181, 1);
+    --varitions-warning-color-w100: rgba(238, 224, 150, 1);
+    --varitions-warning-color-w200: rgba(230, 210, 105, 1);
+    --varitions-warning-color-w300: rgba(225, 201, 74, 1);
+    --varitions-warning-color-w400: rgba(158, 141, 52, 1);
+    --varitions-warning-color-w500: rgba(137, 123, 45, 1);
+    --varitions-danger-color-d50: rgba(252, 230, 230, 1);
+    --varitions-danger-color-d75: rgba(241, 150, 150, 1);
+    --varitions-danger-color-d100: rgba(235, 107, 107, 1);
+    --varitions-danger-color-d200: rgba(227, 43, 43, 1);
+    --varitions-danger-color-d300: rgba(221, 0, 0, 1);
+    --varitions-danger-color-d400: rgba(155, 0, 0, 1);
+    --varitions-danger-color-d500: rgba(135, 0, 0, 1);
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: var(--varitions-primary-color-blue-50);
+}
+
+header {
+    width: 100%;
+    height: 10vh;
+    background: var(--varitions-primary-color-blue-50);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 2rem;
+}
+
+.logo {
+    cursor: pointer;
+    display: flex;
+    width: 164px;
+    height: 55.405px;
+}
+
+.nav_links {
+    list-style: none;
+    padding-left: 10rem;
+    padding-right: 10rem;
+}
+
+.nav_links li {
+    display: inline;
+    padding: 0 1rem;
+}
+
+.nav_links li a {
+    color: var(--primary-color);
+    font: var(regular-body-base-regular);
+    text-decoration: none; /*remove underline*/
+}
+
+button .signup {
+    display: inline-flex;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 4px;
+    border: none; /*remove border*/
+    background: var(--Primary-Color, #36A09F);
+    color: var(--varitions-secondary-color-s50); 
+    font: var(bold-body-small-bold);
+    text-decoration: none;
+}
+
+.login {
+    display: inline-flex;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 4px;
+    border: none; /*remove border*/
+    background: var(--varitions-primary-color-blue-100);
+    color: var(--Primary-Color); 
+    font: var(regular-body-base-regular);
+    text-decoration: none;
+}
+
+.button {
+    background-color: var(--varitions-primary-color-blue-50);
+    border: none;
+    border-radius: 4px;
+    color: var(--primary-color);
+    padding: 8px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font: var(regular-body-base-regular);
+    cursor: pointer;
+  }
+  
+.button2 {
+    background-color: var(--primary-color);
+    color: var(--varitions-secondary-color-s50);
+}
+
+.social_media_links a {
+    display: inline-block;
+    padding: 0 2px;
+}
+
